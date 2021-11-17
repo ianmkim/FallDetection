@@ -40,14 +40,6 @@ Models
     └── yolov3-tiny-onecls.cfg
 ```
 
-## Basic Use
-
-1. Download all pre-trained models into ./Models folder.
-2. Run main.py
-```
-    python main.py ${video file or camera source}
-```
-
 ## Reference
 
 - AlphaPose : https://github.com/Amanbhandula/AlphaPose
